@@ -154,9 +154,8 @@ Password: test123
 ## Author
 
 **Prashannaa**
-- 3rd Year B.Tech — Information Technology
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/Prashannaa-236)
+- LinkedIn: [yourprofile](https://www.linkedin.com/in/prashannaa-b-p-603714383/)
 
 ---
 
