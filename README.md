@@ -154,8 +154,8 @@ Password: test123
 ## Author
 
 **Prashannaa**
-- GitHub: [@yourusername](https://github.com/Prashannaa-236)
-- LinkedIn: [yourprofile](https://www.linkedin.com/in/prashannaa-b-p-603714383/)
+- GitHub: [Prashannaa-235](https://github.com/Prashannaa-236)
+- LinkedIn: [prashannaa-b-p](https://www.linkedin.com/in/prashannaa-b-p-603714383/)
 
 ---
 
